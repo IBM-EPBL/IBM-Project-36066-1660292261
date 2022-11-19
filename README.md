@@ -13,6 +13,10 @@ Suppose you have been hired as Data Scientist of Health Man – a not for profit
 
 The goal is to accurately predict the Length of Stay for each patient on case by case basis so that the Hospitals can use this information for optimal resource allocation and better functioning. The length of stay is divided into 11 different classes ranging from 0-10 days to more than 100 days.
 
+### Links
+Demo : [@https://youtu.be/odRAxofrwQA][5]
+Website : [@https://ibm-pnt2022tmid27483.web.app/][6]
+
 ## Team Members
 [@Ponmani PR][1] 
 
@@ -26,3 +30,6 @@ The goal is to accurately predict the Length of Stay for each patient on case by
 [2]:https://github.com/Benita29    "@Infant Benita L"      
 [4]:https://github.com/Judes27     "@Judes Jovina W"
 [3]:https://github.com/joyinfanta24   "@Joy Infanta"
+[5]:https://youtu.be/odRAxofrwQA    "@https://youtu.be/odRAxofrwQA"
+[6]:https://ibm-pnt2022tmid27483.web.app/  "@https://ibm-pnt2022tmid27483.web.app/"
+
